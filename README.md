@@ -1,6 +1,6 @@
 # TPN
 
-This repo is for source code of paper "Balance and Brighten: A Twin-Propeller Network to Release Potential of Physics Laws for Traffic State Estimation".
+This repo is for source code of TPN.
 
 ## Environment
 
